@@ -133,3 +133,10 @@ dmypy.json
 
 # IDE
 .idea/
+
+# gatsby
+node_modules/
+.cache/
+public
+
+.vscode/
